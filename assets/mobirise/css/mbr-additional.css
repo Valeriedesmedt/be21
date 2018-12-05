@@ -1760,7 +1760,7 @@ body {
 }
 .cid-r96LffhPC4 {
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 120px;
   background-color: #2e2e2e;
 }
 .cid-r96LffhPC4 .row-links {
@@ -1837,7 +1837,7 @@ body {
   width: 100%;
 }
 .cid-r96LffhPC4 .media-container-row .mbr-text {
-  text-align: left;
+  text-align: center;
 }
 .cid-r96LffhPC4 foot-menu-item {
   text-align: right;
@@ -2272,7 +2272,7 @@ body {
 }
 .cid-r96ETNo1hw {
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 120px;
   background-color: #2e2e2e;
 }
 .cid-r96ETNo1hw .row-links {
@@ -2349,7 +2349,7 @@ body {
   width: 100%;
 }
 .cid-r96ETNo1hw .media-container-row .mbr-text {
-  text-align: left;
+  text-align: center;
 }
 .cid-r96ETNo1hw foot-menu-item {
   text-align: right;
@@ -2792,13 +2792,12 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-r96IlPFyzk .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
 .cid-r96IlPFyzk .mbr-gallery-item > div:hover:before {
-  opacity: 0.8 !important;
+  opacity: 0.3 !important;
 }
 .cid-r96IlPFyzk .mbr-gallery-title {
   font-size: .9em;
@@ -2819,14 +2818,13 @@ body {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.8;
+  opacity: 0.3;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-r96KSA8haw {
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 120px;
   background-color: #2e2e2e;
 }
 .cid-r96KSA8haw .row-links {
@@ -2903,7 +2901,7 @@ body {
   width: 100%;
 }
 .cid-r96KSA8haw .media-container-row .mbr-text {
-  text-align: left;
+  text-align: center;
 }
 .cid-r96KSA8haw foot-menu-item {
   text-align: right;
@@ -3369,7 +3367,7 @@ body {
 }
 .cid-r96HA5J85A {
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 120px;
   background-color: #2e2e2e;
 }
 .cid-r96HA5J85A .row-links {
@@ -3446,7 +3444,7 @@ body {
   width: 100%;
 }
 .cid-r96HA5J85A .media-container-row .mbr-text {
-  text-align: left;
+  text-align: center;
 }
 .cid-r96HA5J85A foot-menu-item {
   text-align: right;
